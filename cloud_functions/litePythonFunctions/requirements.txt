@@ -1,0 +1,9 @@
+firebase_functions~=0.1.0
+google-api-core
+pydub
+google-cloud-translate
+google-cloud-texttospeech
+google-cloud-storage
+elevenlabs
+langchain-core
+langchain_google_vertexai

@@ -1,0 +1,53 @@
+{
+  "functions": [
+    {
+      "source": "pythonFunctions",
+      "codebase": "python_functions",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "python310"
+    },
+    {
+      "source": "litePythonFunctions",
+      "codebase": "lite_python_functions",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "python310"
+    },
+    {
+      "source": "liteJsFunctions",
+      "codebase": "lite_js_functions",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "nodejs18"
+    },
+    {
+      "source": "jsFunctions",
+      "codebase": "js_functions",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "nodejs18"
+    }
+  ],
+  "emulators": {
+    "functions": {
+      "port": 5001
+    }
+  }
+}

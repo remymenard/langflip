@@ -1,0 +1,11 @@
+firebase_functions~=0.1.0
+moviepy~=1.0.3
+pydub
+# face_recognition
+# opencv-python
+# google-cloud-speech
+google-cloud-storage
+elevenlabs
+langchain-core
+langchain_google_vertexai
+static-ffmpeg~=2.5

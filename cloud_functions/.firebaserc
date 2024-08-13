@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "langflip-e8589"
+  },
+  "targets": {
+    "langflip-e8589": {}
+  },
+  "etags": {}
+}

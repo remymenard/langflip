@@ -1,0 +1,5 @@
+/pretrained_models/**
+
+.env
+
+runpod-langflip-e8589-fdbf77bb6c22.json

@@ -1,0 +1,10 @@
+{
+  "input": {
+    "text": "Bonjour je m'appel Rémy je suis un crack et je test le tts que j'ai fait moi même pour langflip qui est une ia qui traduit les vidéos.",
+    "lang": "FR",
+    "speed": 1.0,
+    "reference": "https://firebasestorage.googleapis.com/v0/b/langflip-e8589.appspot.com/o/users%2FuSaFgrjojNU7dVDam9b1YOLn0hU2%2Fuploads%2F1717269545733000.mp3?alt=media&token=872b73a5-e2c5-4a02-961f-09e4cb6856be",
+    "firestore_generation_id": "AaCrxvjFxOIcDhUebSLc",
+    "firestore_voice_id": "sJNkZbmjgsrrkTOcyoxv"
+  }
+}
